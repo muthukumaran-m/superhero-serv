@@ -1,2 +1,2 @@
-# superhero-serv
-superhero-serv
+# superheroe-serv
+It runs using backend script
